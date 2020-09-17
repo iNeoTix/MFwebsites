@@ -1,0 +1,28 @@
+body {
+   font-family: Arial, Helvetica, sans-serif;
+}
+span.wr {
+    font-weight: bold;
+    text-decoration: underline;
+    color: red
+    }
+span.mfw {
+    color: #BB3566;
+}
+span.little {
+    font-size: 36%;
+}
+span.mtc {
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+span.sb {
+    color: blue;
+}
+span.vi {
+    color: blueviolet;
+}
+span.nc {
+    color: #0077aa;
+}
